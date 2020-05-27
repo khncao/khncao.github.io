@@ -1,3 +1,3 @@
-##Portfolio
-###Projects
-###Art
+## Portfolio
+### Projects
+### Art
