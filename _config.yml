@@ -1,7 +1,10 @@
 theme: jekyll-theme-slate
 title: Kelvin Cao
 description: >
-  Software & Game Developer, Digital & 3D Artist
-  <a href="https://www.linkedin.com/in/kelvin-cao-08b88a79/">LinkedIn</a>  <a href="https://www.artstation.com/khncao">ArtStation</a> 
+  Software & Game Developer
+  <br>
+  Digital & 3D Artist
+  <br>
+  <a href="https://www.linkedin.com/in/kelvin-cao-08b88a79/">LinkedIn</a>  <a href="https://stackoverflow.com/users/13619326/khncao">StackOverflow</a>  <a href="https://www.artstation.com/khncao">ArtStation</a> 
 github:
   is_project_page: false
