@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Kelvin Cao
 description: Software & Game Developer, Digital & 3D Artist
+github:
+  is_project_page: false
