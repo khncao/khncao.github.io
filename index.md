@@ -1,7 +1,10 @@
 # Portfolio
 [2D Art](#2d)  
 [3D Art](#3d)
+
 ## Projects
+[Gomoku](https://github.com/khncao/gomoku)
+
 ## Art
 <a name="2d"/>
 
