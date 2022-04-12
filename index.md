@@ -1,18 +1,13 @@
 # Portfolio
 
 ## Projects
-Unity Engine 3D game development
+Unity Engine 3D game development <https://github.com/khncao/UnityFramework>
 -   Integrate various systems to deliver a cyclic gameplay system with steady progression and player customizations. Manage real-time data, simulation,  and visualization states. 3D modeling, animations, and composition, and general graphics.
 -   Systems: Inventory, Building Customization, Character Customization, AI, Task Management, Dialogue, Player Control, UI, Camera, Serialization, Interaction, Animation, etc.
 -   Tooling: Persistent data managers, asset management tools, etc.
--   Rough tools, utilities, and systems for a variety of game types:
-    -   <https://github.com/khncao/com.minus4kelvin.core>
-    -   <https://github.com/khncao/com.minus4kelvin.saveload>
-    -   <https://github.com/khncao/com.minus4kelvin.buildsystem>
-    -   <https://github.com/khncao/com.minus4kelvin.ai>
 
 [Gomoku](https://github.com/khncao/gomoku) - Course solo  project; adversarial AI in two-player Five-In-A-Row board game
--	Implemented non-algorithmic (UI, graphics, etc.) features using Unity
+-	Implemented interface and built using Unity
 -	Implemented minimax with alpha-beta pruning and static evaluator in C#
 -	Handled documentation, builds, deployment
   
