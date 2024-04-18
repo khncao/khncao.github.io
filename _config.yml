@@ -1,33 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Kelvin Cao
-#logo: 
-description: >
-  Software & Game Developer
-  <br>
-  Digital & 3D Artist
-  <br>
-  <a href="https://github.com/khncao">GitHub</a>
-  <a href="https://www.hackerrank.com/khncao">HackerRank</a>
-  <a href="https://www.linkedin.com/in/khncao/">LinkedIn</a>  
-  <br><hr>
-  <b>Languages</b>
-  <br>
-  C#, Python, C++, Java<br>
-  English, Vietnamese, Japanese<br>
-  <br>
-  <b>Tools</b>
-  <br>
-  Unity Engine, Blender, Django, GitHub<br>
-  <br>
-  <b>Skills</b>
-  <br>
-  UI/UX, 3D CG, Illustration, Games, <br>
-  Algorithms, Data structures & analysis
-  <br><br>
-  <b>Goals</b>
-  <br>
-  CS/STEM Master's, industry experience<br>
-  Applied computational science
 
 show_downloads: false
 github:
