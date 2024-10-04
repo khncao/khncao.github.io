@@ -1,4 +1,18 @@
-**Projects**
+# Projects
+
+[LFGrouper](https://lfgrouper.com)
+
+- Private NX monorepo with TypeScript, React Native(Expo) frontends, and Node(Fastify) backends
+- PostgreSQL, Docker, Github Actions CI/CD, Jest, Detox, Playwright
+
+---
+
+[Unity Framework](https://github.com/khncao/UnityFramework)
+
+- Implemented common systems and integrations for Unity in C# with minimal third-party dependencies
+- Used in 3 proprietary Unity Engine game projects to reduce repetition of core systems by over 80%
+
+---
 
 [Idle Click Mines of Doom](https://minesofdoom.pages.dev/) [(repo)](https://github.com/khncao/minesofdoom/tree/main)
 
@@ -7,21 +21,7 @@
 
 ---
 
-[Unity Framework](https://github.com/khncao/UnityFramework)
-
-- Shared Systems: Inventory, AI, Task Management, Dialogue, 3D Player Controller, 3D Interaction, 3D Animation, UI, Camera Rig, Serialization, etc.
-- Tooling: Persistent data managers, asset management tools, editor tools for workflows
-
----
-
-[Gomoku](https://github.com/khncao/gomoku) - Adversarial AI in two-player Five-In-A-Row board game
-
-- 2D GUI using Unity Engine
-- Implemented minimax algorithm with alpha-beta pruning and static evaluator in C#
-
----
-
-[MyFoodBook](https://github.com/BenBamboozled/myFoodBook) - Basic Django social media website; school project
+[MyFoodBook](https://github.com/BenBamboozled/myFoodBook) - Basic Django social media website
 
 - Full-stack features:
   - Real-time group chatting system
